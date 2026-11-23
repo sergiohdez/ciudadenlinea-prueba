@@ -1,6 +1,6 @@
 <?php
 
-header('Location: https://sergioluisha.com/ciudadenlinea2/public/');
+header('Location: https://sergioluisha.com/ciudadenlinea/public/');
 
 exit;
 
